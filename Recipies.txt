@@ -2,3 +2,5 @@
 Welcome to Ved's GIT kitchen
 
 this is a new line
+
+Thank you for seeing this!
